@@ -10,15 +10,15 @@ Text prediction/classifier project
 
 #1 Some kinda text classifier, wat we gon classify dawg? Sentiment analysis, russian troll classifier,
 
-- NULL, 
+- NULL- 
 
-- ALT,
+- ALT-
 
 #2 Text summarizer, is this even possible ? ? 
 
-- Null, The summarizer will return a somewhat coherent summary of input string
+- NULL- The summarizer will return a somewhat coherent summary of input string
 
-- Alt, The summarizer will return an incoherent summary
+- ALT- The summarizer will return an incoherent summary
 
 
 ## Datasets

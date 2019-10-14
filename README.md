@@ -55,3 +55,6 @@ http://ai.stanford.edu/~amaas/data/sentiment/
 
 cornell movie review 
 http://www.cs.cornell.edu/people/pabo/movie-review-data/
+
+kaggle chatbot data
+https://www.kaggle.com/samdeeplearning/deepnlp#Sheet_2.csv

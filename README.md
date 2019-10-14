@@ -8,7 +8,7 @@ Text prediction/classifier project
 
 # Hypothesis
 
-#1 Some kinda text classifier, wat we gon classify dawg? Sentiment analysis, russian troll classifier?
+#1 Some kinda text classifier, wat we gone classify? Sentiment analysis, russian troll classifier?
 
 - NULL- 
 

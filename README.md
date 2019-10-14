@@ -59,8 +59,8 @@ http://www.cs.cornell.edu/people/pabo/movie-review-data/
 kaggle chatbot data
 https://www.kaggle.com/samdeeplearning/deepnlp#Sheet_2.csv
 
-reddit russian ads dataset (Train?)
+reddit russian ads dataset.
 https://www.reddit.com/r/datasets/comments/8s0wrr/dataset_of_3500_ads_by_prorussia_group/
 
-every reddit comment 250GB compressed, 1 TB uncompressed (Test?)
+every reddit comment 250GB compressed, 1 TB uncompressed.
 https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/

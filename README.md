@@ -1,7 +1,25 @@
 # NLP-CAP
 Text prediction/classifier project
 
-This project is in its infancy so the hypothesis may change depending on what we can or can't do
+- This project is in its infancy so the hypothesis may change depending on what we want to do and can/can't do 
+
+- NLP & Text classification resources attached
+
+
+# Hypothesis
+
+#1
+
+- NULL
+
+- ALT
+
+#2
+
+- NULL
+
+- ALT
+
 
 ## Datasets
 labelled and unlabelled

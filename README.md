@@ -8,11 +8,11 @@ Text prediction/classifier project
 
 # Hypothesis
 
-#1 Some kinda text classifier, wat we gon classify dawg?
+#1 Some kinda text classifier, wat we gon classify dawg? Sentiment analysis, russian troll classifier,
 
-- NULL
+- NULL, 
 
-- ALT
+- ALT,
 
 #2 Text summarizer, is this even possible ? ? 
 
@@ -58,3 +58,9 @@ http://www.cs.cornell.edu/people/pabo/movie-review-data/
 
 kaggle chatbot data
 https://www.kaggle.com/samdeeplearning/deepnlp#Sheet_2.csv
+
+reddit russian ads dataset (Train?)
+https://www.reddit.com/r/datasets/comments/8s0wrr/dataset_of_3500_ads_by_prorussia_group/
+
+reddit every comment 250GB compressed (Test?)
+https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/

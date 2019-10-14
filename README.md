@@ -8,17 +8,17 @@ Text prediction/classifier project
 
 # Hypothesis
 
-#1
+#1 Some kinda text classifier, wat we gon classify dawg?
 
 - NULL
 
 - ALT
 
-#2
+#2 Text summarizer, is this even possible ? ? 
 
-- NULL
+Null -  The summarizer will return a somewhat coherent summary of input string
 
-- ALT
+Alt - The summarizer will return an incoherent summary
 
 
 ## Datasets

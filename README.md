@@ -62,5 +62,5 @@ https://www.kaggle.com/samdeeplearning/deepnlp#Sheet_2.csv
 reddit russian ads dataset (Train?)
 https://www.reddit.com/r/datasets/comments/8s0wrr/dataset_of_3500_ads_by_prorussia_group/
 
-reddit every comment 250GB compressed (Test?)
+every reddit comment 250GB compressed, 1 TB uncompressed (Test?)
 https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/

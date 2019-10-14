@@ -16,9 +16,9 @@ Text prediction/classifier project
 
 #2 Text summarizer, is this even possible ? ? 
 
-Null -  The summarizer will return a somewhat coherent summary of input string
+- Null, The summarizer will return a somewhat coherent summary of input string
 
-Alt - The summarizer will return an incoherent summary
+- Alt, The summarizer will return an incoherent summary
 
 
 ## Datasets

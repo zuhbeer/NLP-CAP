@@ -10,9 +10,9 @@ Text prediction/classifier project
 
 #1 Some kinda text classifier, wat we gone classify? Sentiment analysis, russian troll classifier?
 
-- NULL- 
+- NULL- script to identify sentiment will be 95% accurate or greater
 
-- ALT-
+- ALT- script to identify sentiment will be less than 95% accurate.
 
 #2 Text summarizer, is this even possible ? ? 
 

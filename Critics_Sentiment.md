@@ -12,14 +12,14 @@
 
 #### The Stanford Movie Review dataset 
 
-    Sample Review 
+    Sample Review from 50k dataset
 
 <img src="https://github.com/zuhbeer/NLP-CAP/blob/master/Screen%20Shot%202019-10-18%20at%2010.22.06%20AM.png" width="900">
 
 
 
 #
-#### Reviews are cleaned and put into a Pandas dataframe
+#### Reviews are cleaned via nltk, spacy, and sklearn libraries and put into a Pandas dataframe
 #
 
 
@@ -35,7 +35,9 @@
 
 <img src="https://github.com/zuhbeer/NLP-CAP/blob/master/Screen%20Shot%202019-10-18%20at%2010.06.25%20AM.png" width="600">
 
-
+#
+### Vectorizing the Reviews, and creating a TF-IDF matrix. (Words to Numbers)
+#
 
 
 #
@@ -43,3 +45,9 @@
 #
 
 <img src="https://github.com/zuhbeer/NLP-CAP/blob/master/Screen%20Shot%202019-10-18%20at%2010.46.07%20AM.png"  width="600">
+
+#
+## Future work
+#
+
+-identify misclassified 

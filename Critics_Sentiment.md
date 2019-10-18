@@ -39,7 +39,7 @@
 <img src="https://github.com/zuhbeer/NLP-CAP/blob/master/tfidf.png" width="600">
 
 #
-### Here come the models. not that kind :(
+### Here come the models!
 
 
 <img src="https://github.com/zuhbeer/NLP-CAP/blob/master/Log_reg.png" width="600">

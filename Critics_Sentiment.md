@@ -19,7 +19,7 @@
 
 
 #
-#### Reviews are cleaned via nltk, spacy, and sklearn libraries and put into a Pandas dataframe
+### Reviews are cleaned via nltk, spacy, and sklearn libraries and put into a Pandas dataframe
 
 
 <img src="https://github.com/zuhbeer/NLP-CAP/blob/master/Screen%20Shot%202019-10-18%20at%2010.27.27%20AM.png"  width="600">
@@ -28,7 +28,7 @@
 
 
 #
-#### 12,500 positive and 12,500 negative reviews with corresponding iMDB score.
+### 12,500 positive and 12,500 negative reviews with corresponding iMDB score.
 
 
 <img src="https://github.com/zuhbeer/NLP-CAP/blob/master/Screen%20Shot%202019-10-18%20at%2010.06.25%20AM.png" width="600">
@@ -36,14 +36,28 @@
 #
 ### Vectorizing the Reviews, and creating a TF-IDF matrix. (Words to Numbers)
 
+<img src="https://github.com/zuhbeer/NLP-CAP/blob/master/tfidf.png" width="600">
+
+#
+### Here come the models. not that kind :(
+
+
+<img src="https://github.com/zuhbeer/NLP-CAP/blob/master/Log_reg.png" width="600">
+
+    baseline score: 84%
+#
+
+<img src="https://github.com/zuhbeer/NLP-CAP/blob/master/RF.png" width="600">
+
+    new high score: 92%
 
 #
 ### What words are most important?
 
-<img src="https://github.com/zuhbeer/NLP-CAP/blob/master/Screen%20Shot%202019-10-18%20at%2010.46.07%20AM.png"  width="600">
+<img src="https://github.com/zuhbeer/NLP-CAP/blob/master/Screen%20Shot%202019-10-18%20at%2010.46.07%20AM.png"  width="400">
 
 #
-## Future work
+### Future work
 
 - identify misclassified reviews 
 - train model on different types of reviews

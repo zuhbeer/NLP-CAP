@@ -36,18 +36,18 @@
 #
 ### Vectorizing the Reviews, and creating a TF-IDF matrix. (Words to Numbers)
 
-<img src="https://github.com/zuhbeer/NLP-CAP/blob/master/tfidf.png" width="600">
+<img src="https://github.com/zuhbeer/NLP-CAP/blob/master/tfidf.png" width="700">
 
 #
 ### Here come the models!
 
 
-<img src="https://github.com/zuhbeer/NLP-CAP/blob/master/Log_reg.png" width="600">
+<img src="https://github.com/zuhbeer/NLP-CAP/blob/master/Log_reg.png" width="700">
 
     baseline score: 84%
 #
 
-<img src="https://github.com/zuhbeer/NLP-CAP/blob/master/RF.png" width="600">
+<img src="https://github.com/zuhbeer/NLP-CAP/blob/master/RF.png" width="700">
 
     new high score: 92%
 

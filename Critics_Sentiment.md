@@ -5,14 +5,16 @@
 
 #### The Stanford Movie Review dataset 
 
-Sample Review 
+    Sample Review 
 
 <img src="https://github.com/zuhbeer/NLP-CAP/blob/master/Screen%20Shot%202019-10-18%20at%2010.22.06%20AM.png" width="900">
 
 
-
-
-
+  
+   
+   
+   
+   
 #### 12,500 positive and 12,500 negative reviews with corresponding iMDB score.
 
 

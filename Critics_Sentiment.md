@@ -3,6 +3,13 @@
 ### Did you like that movie? Wait I can't understand you. Let my write some code to understand what you're saying. Stop talking
 
 
+## Hypothesis
+
+- NULL- script to identify sentiment will be 90% accurate or greater
+
+- ALT- script to identify sentiment will be less than 90% accurate.
+
+
 #### The Stanford Movie Review dataset 
 
     Sample Review 

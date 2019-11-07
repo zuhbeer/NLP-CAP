@@ -1,6 +1,6 @@
 # Sentiment Analysis using Movie Reviews
 
-### Did you like that movie? Wait I can't understand you. Let my write some code to understand what you're saying. Stop talking
+### Did you like that movie? Wait I can't understand you. Let my write some code to understand what you're saying
 
 #
 ## Hypothesis
